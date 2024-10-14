@@ -10,4 +10,4 @@ It is a game of breaking bricks using a paddle. In this, JavaScript is for logic
 
 Live link checkout it out
 
-https://brickbreaker-by-prathamesh.netlify.app/
+https://effervescent-cuchufli-522d4c.netlify.app/
